@@ -1,0 +1,25 @@
+{
+  "name": "http-api-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gandls42anth/http-api-assignment.git"
+  },
+  "author": "NDS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gandls42anth/http-api-assignment/issues"
+  },
+  "homepage": "https://github.com/Gandls42anth/http-api-assignment#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
